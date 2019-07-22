@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="28px" viewBox="0 0 40 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>包含交易</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="40" height="28" rx="2.15384615"></rect>
+    </defs>
+    <g id="页面2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="画板" transform="translate(-68.000000, -1221.000000)">
+            <g id="编组-5复制">
+                <g id="编组-8" transform="translate(68.000000, 1214.000000)">
+                    <g id="包含交易" transform="translate(0.000000, 7.000000)">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <use id="蒙版" fill="#396EA0" xlink:href="#path-1"></use>
+                        <g id="编组-7" mask="url(#mask-2)" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.94840457">
+                            <g transform="translate(0.000000, 7.000000)" id="路径-4复制">
+                                <polyline points="2.61124455e-13 5.83333333 8.83061535 5.83333333 16.3711197 -3.02868841e-13 22.8571429 5.83333333"></polyline>
+                                <polyline transform="translate(28.571429, 11.083333) scale(-1, -1) translate(-28.571429, -11.083333) " points="17.1428571 14 25.9734725 14 33.5139768 8.16666667 40 14"></polyline>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="3630px" height="440px" viewBox="0 0 3630 440" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>Polygon Copy 9复制 4</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="3.82089628%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#396EA0" offset="0%"></stop>
+            <stop stop-color="#6BA7CE" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-2" x="0" y="0" width="3630" height="440"></rect>
+        <linearGradient x1="19.3597874%" y1="22.0350072%" x2="92.0069002%" y2="68.1886398%" id="linearGradient-4">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <filter x="-2.9%" y="-2.7%" width="105.8%" height="105.4%" filterUnits="objectBoundingBox" id="filter-5">
+            <feGaussianBlur stdDeviation="0.761904762" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <linearGradient x1="14.8066892%" y1="50%" x2="122.353004%" y2="40.6961092%" id="linearGradient-6">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <filter x="-5.4%" y="-5.0%" width="110.7%" height="110.0%" filterUnits="objectBoundingBox" id="filter-7">
+            <feGaussianBlur stdDeviation="1.3968254" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <linearGradient x1="15.2807364%" y1="28.7502104%" x2="92.5893228%" y2="61.3495077%" id="linearGradient-8">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <filter x="-3.6%" y="-3.0%" width="107.1%" height="106.0%" filterUnits="objectBoundingBox" id="filter-9">
+            <feGaussianBlur stdDeviation="0.634920635" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <linearGradient x1="13.8820553%" y1="26.9039738%" x2="102.06829%" y2="50%" id="linearGradient-10">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <filter x="-3.6%" y="-3.0%" width="107.1%" height="106.0%" filterUnits="objectBoundingBox" id="filter-11">
+            <feGaussianBlur stdDeviation="1.07348787" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <linearGradient x1="19.5949052%" y1="22.0350072%" x2="91.6845601%" y2="68.1886398%" id="linearGradient-12">
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </linearGradient>
+        <filter x="-2.6%" y="-2.3%" width="105.1%" height="104.7%" filterUnits="objectBoundingBox" id="filter-13">
+            <feGaussianBlur stdDeviation="0.634920635" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <linearGradient x1="12.4489414%" y1="28.7502104%" x2="96.0630206%" y2="61.3495077%" id="linearGradient-14">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <filter x="-4.9%" y="-4.3%" width="109.9%" height="108.6%" filterUnits="objectBoundingBox" id="filter-15">
+            <feGaussianBlur stdDeviation="0.761904762" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <linearGradient x1="13.2726232%" y1="26.9039738%" x2="86.7273768%" y2="63.8168116%" id="linearGradient-16">
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </linearGradient>
+        <filter x="-4.5%" y="-3.9%" width="109.1%" height="107.8%" filterUnits="objectBoundingBox" id="filter-17">
+            <feGaussianBlur stdDeviation="1.28818545" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <linearGradient x1="19.2512671%" y1="50%" x2="113.215513%" y2="40.6961092%" id="linearGradient-18">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <filter x="-7.1%" y="-6.2%" width="114.3%" height="112.5%" filterUnits="objectBoundingBox" id="filter-19">
+            <feGaussianBlur stdDeviation="1.77740339" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <linearGradient x1="21.6060314%" y1="22.0350072%" x2="88.9273606%" y2="91.6993362%" id="linearGradient-20">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <filter x="-4.3%" y="-3.8%" width="108.6%" height="107.6%" filterUnits="objectBoundingBox" id="filter-21">
+            <feGaussianBlur stdDeviation="0.761904762" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+    </defs>
+    <g id="页面2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Polygon-Copy-9复制-4">
+            <mask id="mask-3" fill="white">
+                <use xlink:href="#path-2"></use>
+            </mask>
+            <use id="蒙版" fill="url(#linearGradient-1)" xlink:href="#path-2"></use>
+            <g id="编组-14" mask="url(#mask-3)">
+                <g transform="translate(-44.440104, -55.111111)">
+                    <polygon id="Polygon-Copy-9复制-4" fill-opacity="0.96" fill="url(#linearGradient-4)" fill-rule="nonzero" opacity="0.298502604" filter="url(#filter-5)" transform="translate(1986.854509, 222.501825) rotate(155.000000) translate(-1986.854509, -222.501825) " points="1986.8376 179.835903 2025.94478 201.18286 2025.96168 243.848782 1986.87142 265.167747 1947.76424 243.820791 1947.74733 201.154869"></polygon>
+                    <polygon id="Polygon-Copy-9复制-2" fill-opacity="0.96" fill="url(#linearGradient-6)" fill-rule="nonzero" opacity="0.279457" filter="url(#filter-7)" transform="translate(872.868811, 279.590482) rotate(-327.000000) translate(-872.868811, -279.590482) " points="872.852327 237.813914 911.961684 258.716159 911.978168 300.492728 872.885294 321.36705 833.775937 300.464805 833.759454 258.688237"></polygon>
+                    <g id="编组-13" stroke-width="1" fill="none" fill-rule="evenodd">
+                        <g id="编组-20">
+                            <g id="多边形" transform="translate(2118.353708, 243.784080)"></g>
+                            <g id="line" transform="translate(640.711432, 79.644975)"></g>
+                            <path d="M90.6578125,191.111111 L348.544589,62.8169312" id="直线-2" stroke="#D4E9FC" stroke-width="1.33333333" opacity="0.300000012" stroke-linecap="square"></path>
+                            <path d="M916.354948,283.555556 L1300.31745,75.5555556" id="直线" stroke="#D4E9FC" stroke-width="1.33333333" opacity="0.35" stroke-linecap="square"></path>
+                            <path d="M409.73776,72 L827.47474,276.444444" id="直线复制" stroke="#D4E9FC" stroke-width="1.33333333" opacity="0.35" stroke-linecap="square"></path>
+                            <path d="M1943.81016,213.333333 L1373.19922,73.7777778" id="直线-3复制-9" stroke="#D4E9FC" stroke-width="1.33333333" opacity="0.399437314" stroke-linecap="square"></path>
+                            <polygon id="Polygon-Copy-9复制-5" fill="url(#linearGradient-8)" fill-rule="nonzero" opacity="0.204272" filter="url(#filter-9)" transform="translate(378.860254, 66.534503) rotate(-139.000000) translate(-378.860254, -66.534503) " points="378.873362 34.5358486 405.524663 50.5239133 405.511554 82.5225676 378.847145 98.5331571 352.195845 82.5450924 352.208953 50.5464382"></polygon>
+                            <polygon id="Polygon-Copy-9复制-3" fill-opacity="0.96" fill="url(#linearGradient-10)" fill-rule="nonzero" opacity="0.344075521" filter="url(#filter-11)" points="45.3411687 160 90.6578125 186.656056 90.64555 239.989389 45.3166438 266.666667 0 240.010611 0.0122624783 186.677277"></polygon>
+                            <polygon id="Polygon-Copy-9复制-4" fill-opacity="0.96" fill="url(#linearGradient-12)" fill-rule="nonzero" opacity="0.218168713" filter="url(#filter-13)" transform="translate(1337.502411, 53.696997) rotate(120.000000) translate(-1337.502411, -53.696997) " points="1337.48103 12.8111039 1374.81259 33.2718459 1374.83397 74.1577391 1337.52379 94.5828901 1300.19223 74.122148 1300.17085 33.2362549"></polygon>
+                        </g>
+                        <g id="编组-20复制" transform="translate(2776.617708, 176.000000) scale(-1, 1) translate(-2776.617708, -176.000000) translate(2042.467187, 16.000000)">
+                            <g id="多边形" transform="translate(179.910936, 0.274229)"></g>
+                            <g id="line" transform="translate(207.089700, 55.040637)"></g>
+                            <path d="M100.434635,102.222222 L313.747135,187.414713" id="直线-2" stroke="#D4E9FC" stroke-width="1.6" opacity="0.34656343" stroke-linecap="square"></path>
+                            <path d="M367.07526,191.111111 L583.942969,80.8888889" id="直线" stroke="#D4E9FC" stroke-width="1.6" opacity="0.35" stroke-linecap="square"></path>
+                            <path d="M962.572656,158.222222 L660.379948,70.2222222" id="直线-3" stroke="#D4E9FC" stroke-width="1.6" opacity="0.297545" stroke-linecap="square"></path>
+                            <path d="M1465.63464,196.359145 L1021.23359,123.555556" id="直线-3复制-7" stroke="#D4E9FC" stroke-width="1.6" opacity="0.5" stroke-linecap="square"></path>
+                            <polygon id="Polygon-Copy-9" fill="url(#linearGradient-14)" fill-rule="nonzero" opacity="0.204272" filter="url(#filter-15)" transform="translate(339.971460, 189.766710) rotate(35.000000) translate(-339.971460, -189.766710) " points="339.979162 163.1009 363.080444 176.427529 363.072742 203.093338 339.963758 216.432519 316.862475 203.105891 316.870177 176.440082"></polygon>
+                            <polygon id="Polygon-Copy-9复制-3" fill-opacity="0.96" fill="url(#linearGradient-16)" fill-rule="nonzero" opacity="0.299641927" filter="url(#filter-17)" transform="translate(53.436400, 113.732277) rotate(14.000000) translate(-53.436400, -113.732277) " points="53.4433624 63.9547839 96.0985729 88.8375569 96.0916103 138.61505 53.4294372 163.50977 10.7742266 138.626997 10.7811892 88.849504"></polygon>
+                            <polygon id="Polygon-Copy-9复制-6" fill-opacity="0.96" fill="url(#linearGradient-18)" fill-rule="nonzero" opacity="0.279457" filter="url(#filter-19)" transform="translate(619.044228, 55.281709) rotate(-249.000000) translate(-619.044228, -55.281709) " points="619.035836 12.6186746 656.368004 33.9577424 656.376395 76.6207772 619.052619 97.9447442 581.720451 76.6056764 581.71206 33.9426416"></polygon>
+                            <polygon id="Polygon-Copy-9复制" fill-opacity="0.96" fill="url(#linearGradient-20)" fill-rule="nonzero" opacity="0.235607329" filter="url(#filter-21)" transform="translate(989.421641, 147.929579) rotate(127.000000) translate(-989.421641, -147.929579) " points="989.412966 117.709239 1016.07798 132.826914 1016.08665 163.047254 989.430316 178.149918 962.765302 163.032243 962.756627 132.811904"></polygon>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

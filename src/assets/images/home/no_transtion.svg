@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="35px" height="24px" viewBox="0 0 35 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>编组 15</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="35" height="24" rx="1"></rect>
+    </defs>
+    <g id="页面2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.600000024">
+        <g id="代币分配复制-7" transform="translate(-380.000000, -710.000000)">
+            <g id="编组-11复制" transform="translate(174.000000, 678.000000)">
+                <g id="编组-16" transform="translate(206.000000, 25.000000)">
+                    <g id="编组-15" transform="translate(0.000000, 7.000000)">
+                        <g id="路径-4复制-+-路径-4复制蒙版">
+                            <mask id="mask-2" fill="white">
+                                <use xlink:href="#path-1"></use>
+                            </mask>
+                            <use id="蒙版" fill="#396EA0" xlink:href="#path-1"></use>
+                            <polyline id="路径-4复制" stroke="#FFFFFF" stroke-width="2.52720392" stroke-linecap="round" stroke-linejoin="round" mask="url(#mask-2)" points="0 11 7.72678843 11 14.3247297 6 20 11"></polyline>
+                            <polyline id="路径-4复制" stroke="#FFFFFF" stroke-width="2.52720392" stroke-linecap="round" stroke-linejoin="round" mask="url(#mask-2)" transform="translate(25.000000, 15.500000) scale(-1, -1) translate(-25.000000, -15.500000) " points="15 18 22.7267884 18 29.3247297 13 35 18"></polyline>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

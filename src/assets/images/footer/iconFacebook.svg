@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>路径</title>
+    <desc>Created with Sketch.</desc>
+    <g id="组件" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon/facebook" fill="#FFFFFF" fill-rule="nonzero">
+            <g id="facebook3">
+                <path d="M16,0 C24.837,0 32,7.1908646 32,16.0622412 C32,24.2529803 25.893,31.0121722 18,32 L18,20.0778015 L23.5,20.0778015 L24,16.0622412 L18,16.0622412 L18,14.054461 C18,12.9451625 18.895,12.0466809 20,12.0466809 L24,12.0466809 L24,8.03112059 L20,8.03112059 C16.686,8.03112059 14,10.7275693 14,14.054461 L14,16.0622412 L11,16.0622412 L11,20.0778015 L14,20.0778015 L14,28.0145564 L14,31.6185218 L14,32 C6.107,31.0121722 0,24.2529803 0,16.0622412 C0,7.1908646 7.163,0 16,0 Z" id="路径"></path>
+            </g>
+        </g>
+    </g>
+</svg>

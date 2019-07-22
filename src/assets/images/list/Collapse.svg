@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="12px" viewBox="0 0 22 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>路径</title>
+    <desc>Created with Sketch.</desc>
+    <g id="页面2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M9.745125,11.6165627 L0.388125,2.2595627 C-0.129375,1.7420627 -0.129375,0.905062704 0.388125,0.387562704 C0.904125,-0.128437296 1.742625,-0.129937296 2.260125,0.387562704 L10.681125,8.8085627 L19.102125,0.387562704 C19.618125,-0.128437296 20.456625,-0.129937296 20.974125,0.387562704 C21.491625,0.905062704 21.490125,1.7420627 20.974125,2.2595627 L11.617125,11.6165627 C11.099625,12.1325627 10.262625,12.1325627 9.745125,11.6165627 Z" id="路径" fill="#396EA0" fill-rule="nonzero" transform="translate(10.680844, 6.001781) scale(1, -1) translate(-10.680844, -6.001781) "></path>
+    </g>
+</svg>
